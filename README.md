@@ -20,7 +20,7 @@ Before running Mosquitto Wrangler, make sure you meet the following requirements
 ## Installation
 
 1. Clone this repository:
-    ```sh git clone https://github.com/your-username/mosquitto-wrangler.git
+    git clone https://github.com/your-username/mosquitto-wrangler.git
 2. Open the project in Unity.
 3. Build and run the application.
 
