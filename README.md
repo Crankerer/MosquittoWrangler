@@ -2,7 +2,7 @@
 
 Mosquitto Wrangler is a cross-platform desktop application built in Unity for displaying and sending MQTT messages. This application is developed using the MQTTnet library (https://github.com/dotnet/MQTTnet) and is compatible with Windows, Linux, and macOS.
 
-![Screenshot](/main/ScreenshotMosquittoWrangler.jpg?raw=true)
+![Screenshot](/ScreenshotMosquittoWrangler.jpg?raw=true)
 
 ## Features
 
